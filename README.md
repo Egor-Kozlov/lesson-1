@@ -1,2 +1,2 @@
 # lesson-1
-Lesson one Teach Me sKILLS
+https://egor-kozlov.github.io/lesson-1/
